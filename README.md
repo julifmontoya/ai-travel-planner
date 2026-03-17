@@ -7,6 +7,8 @@ sqlalchemy
 psycopg2-binary
 pydantic
 pydantic-settings
+pgvector
+google-genai
 ```
 
 ```
